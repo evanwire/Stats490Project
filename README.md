@@ -1,4 +1,4 @@
-# Logistic Regression
+# Linear Regression
 
 ### To run:
 
